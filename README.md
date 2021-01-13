@@ -19,3 +19,8 @@ After downing DocRED, you can use `gen_data_extend_graph.py` to preprocess data 
 `train.py` used to start training<br>
 `test.py` used to evaluation model's performance on Dev or Test set.<br>
 `Config.py` is for training Glove-based model And `Config_bert.py` is used for training Bert_based model
+# Evaluation<br>
+For Dev set, you can use `test.py` to evaluate you trained model.
+For Test set, you should first use `test.py` to get test results which saved in `./result`, and submit it into [Condalab competition](https://competitions.codalab.org/competitions/20717).
+# Contacts<br>
+If you have any questions for code, please feel free to contact Yibin Xu(19xyb@mail.dlut.edu.cn), we will reply it as soon as possible.
