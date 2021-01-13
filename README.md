@@ -1,6 +1,8 @@
 Code of GCGCN(Global Context-enhanced Graph Convolutional Networks for Document-level Relation Extraction)
 ===
 Source code for Coling 2020 paper [Global Context-enhanced Graph Convolutional Networks for Document-level Relation Extraction](https://www.aclweb.org/anthology/2020.coling-main.461/)<br>
+# Method<br>
+![](https://https://github.com/Huiweizhou/GCGCN/blob/master/Model_picture.gif)
 # Environments<br>
 * Ubuntu-18.10.1( 4.18.0-25-generic)<br>
 * Python(3.6.8)<br>
